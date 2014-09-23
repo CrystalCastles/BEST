@@ -18,4 +18,4 @@ The typical process of execution is as follows:
 
 I will be hosting this intial beta version (essential just an API mashup/experiment) on a personal server tonight (9/5).
 
-* [Demo](http://feed-me.paultheberge.com)
+[Demo](http://feed-me.paultheberge.com)
