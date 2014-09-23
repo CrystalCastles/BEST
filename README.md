@@ -18,4 +18,4 @@ The typical process of execution is as follows:
 
 I will be hosting this intial beta version (essential just an API mashup/experiment) on a personal server tonight (9/5).
 
-This README.md will be updated to contain the "live" version when it is available.
+* [Demo](http://feed-me.paultheberge.com)
